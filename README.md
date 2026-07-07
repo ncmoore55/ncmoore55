@@ -1,100 +1,158 @@
 <!--
-  ==========================================================================
-  Nikolas Moore — GitHub Profile README
-  Repo name should be: ncmoore55/ncmoore55
-  ==========================================================================
+==============================================================================
+Nikolas Moore | GitHub Profile README
+Repository: ncmoore55/ncmoore55
+==============================================================================
 -->
 
 <div align="center">
 
-<img src="./assets/moon-banner.jpg" width="100%" alt="Anime moon banner" />
+<img src="./assets/banner.png" width="100%" alt="Nikolas Moore Banner"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Nikolas+Moore;Software+Engineer;Python+Developer;Building+AI-Powered+Business+Solutions;Creator+of+ForgeCRM;Building+Real+Software+for+Real+Businesses;Always+Learning.+Always+Shipping." alt="Typing SVG"/>
+
+# 👋 Hi, I'm Nikolas Moore
+
+### Software Engineer | Python Developer | Building AI-Powered Business Solutions
+
+Building real software, business tools, automation workflows, and AI-assisted applications.
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Nikolas+Moore;Software+Engineer;Python+Developer;Building+AI-Powered+Solutions;Building+Real+Business+Software;Learning+Azure+Cloud;Automating+Workflows;Always+Shipping+Something+New" alt="Typing SVG" />
+<a href="https://linkedin.com/in/nikolas-moore-94b09424a">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<h1>Software Engineer | AI Builder | Python Developer</h1>
+<a href="mailto:nikolasmoore2007@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<p>
-  Building real software, AI workflows, business tools, and cloud-ready applications.
-</p>
-
-<p>
-  <a href="https://linkedin.com/in/nikolas-moore-94b09424a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:nikolasmoore2007@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=ncmoore55&color=4FC3F7&style=for-the-badge&label=Profile+Views" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=ncmoore55&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## 👋 About Me
+## ⚡ Quick Snapshot
 
-I'm **Nikolas Moore**, a Computer Information Systems graduate from **Colorado Mesa University** and former **NCAA Division II student-athlete**.
-
-I build software that solves real problems. Over the past few weeks, I have been focused on building production-style applications, AI-assisted websites, CRM tools, database systems, and automation workflows using **Python, Streamlit, MySQL, Git, GitHub, Vercel, Claude, ChatGPT, and Azure learning resources**.
-
-My current focus is becoming a strong entry-level **Software Engineer / AI Engineer / Cloud Engineer** by building real projects instead of only watching tutorials.
-
-- 🎓 B.S. Computer Information Systems — Colorado Mesa University  
-- 🏅 Former NCAA Division II student-athlete  
-- 🐍 Python, SQL, Streamlit, MySQL, Git, GitHub  
-- 🤖 AI-assisted development with Claude, ChatGPT, Base44, and prompt engineering  
-- ☁️ Studying Microsoft Azure AZ-900  
-- 📚 Working through AI Engineering and software engineering fundamentals  
-- 🌐 Building AI-powered websites for local businesses  
-- 💼 Open to Software Engineering, AI Engineering, Cloud, and Python Developer roles  
+| | |
+|---|---|
+| 🎓 Education | B.S. Computer Information Systems — Colorado Mesa University |
+| 🏅 Background | Former NCAA Division II Student-Athlete |
+| 🏢 Flagship Project | ForgeCRM — AI Agency CRM Platform |
+| 🐍 Core Skills | Python, SQL, Streamlit, MySQL, Git, GitHub |
+| 🤖 AI Focus | Prompt Engineering, AI Workflows, Claude, ChatGPT |
+| ☁️ Cloud Focus | Microsoft Azure AZ-900 |
+| 💼 Career Goal | Software Engineering, AI Engineering, Cloud, Python Development |
 
 ---
 
-## ⚡ Current Mission
+## 👨‍💻 About Me
+
+I'm a **Computer Information Systems graduate** from **Colorado Mesa University** and a former **NCAA Division II student-athlete** with a passion for building software that solves real business problems.
+
+Rather than only completing tutorials, I focus on creating production-style applications, business dashboards, CRMs, automation workflows, and AI-assisted websites. My current work combines **Python**, **SQL**, **Streamlit**, **MySQL**, **Git**, **GitHub**, **AI-assisted development**, and cloud learning.
+
+My goal is to become a strong software engineer with practical experience in **AI engineering, automation, cloud computing, and business software development**.
+
+---
 
 <div align="center">
 
-| Focus | Status |
-|---|---|
-| 🏗️ Production CRM Development | ██████████ 100% |
-| 🌐 AI Website Agency | █████████░ 90% |
-| 🐍 Python Automation | ████████░░ 80% |
-| 🤖 AI Engineering | ██████░░░░ 60% |
-| ☁️ Azure AZ-900 | █████░░░░░ 50% |
-| 🧠 Machine Learning | ███░░░░░░░ 30% |
-| ⚙️ Docker / CI-CD | ███░░░░░░░ 30% |
+<img src="./assets/coding.gif" width="650" alt="Coding GIF"/>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🔥 What I'm Building
+
+| 🚀 Focus | Description |
+|---|---|
+| 🏢 **ForgeCRM** | A full-featured CRM for managing leads, clients, website projects, follow-ups, revenue, and business operations. |
+| 🌐 **AI Website Agency** | Building websites for local businesses using AI-assisted development, GitHub, Vercel, and client handoff workflows. |
+| 🤖 **AI Engineering Projects** | Developing practical AI tools involving prompt engineering, automation, memory, RAG, and LLM validation. |
+| ☁️ **Azure Cloud Learning** | Studying Microsoft Azure fundamentals through AZ-900 preparation. |
+| 📚 **Continuous Skill Growth** | Building weekly projects to strengthen Python, SQL, Git, cloud, and software engineering fundamentals. |
+
+---
+
+# 🚀 Flagship Project
+
+## 🏢 ForgeCRM — AI Agency CRM Platform
+
+A production-style CRM designed and developed from the ground up to manage my AI web design agency.
+
+ForgeCRM replaces spreadsheets with a centralized application that manages the full business workflow: lead generation, outreach, follow-ups, client tracking, website project status, revenue, and business analytics.
+
+### Core Features
+
+| Feature | Description |
+|---|---|
+| Lead Pipeline | Track prospects from new lead to contacted, interested, proposal sent, won, or lost. |
+| Customer Database | Store business names, contact info, city, website status, and lead status. |
+| Follow-Up Tasks | Manage next steps so potential clients do not get forgotten. |
+| Interaction History | Track calls, emails, notes, and communication history. |
+| Website Project Tracking | Monitor each website from idea to build to deployment. |
+| Revenue Dashboard | Track paid projects and business income. |
+| Search & Filtering | Quickly find leads, customers, and active opportunities. |
+| CRUD Operations | Create, read, update, and delete business records. |
+| MySQL Backend | Relational database structure for clean business data. |
+| Streamlit Interface | Simple dashboard UI for managing the agency workflow. |
+
+### Recent Improvements
+
+- Redesigned dashboard layout  
+- Improved interaction history cards  
+- Improved follow-up task visualization  
+- Added lead deletion  
+- Added revenue tracking improvements  
+- Improved layout and spacing  
+- Added cleaner UI components  
+- Strengthened database relationships  
+- Added business-focused workflow logic  
+
+### Planned Improvements
+
+- AI-powered lead insights  
+- Automated follow-up reminders  
+- AI proposal generator  
+- Website performance tracking  
+- Client dashboard  
+- Business reporting exports  
+
+### Technologies Used
+
+`Python` `Streamlit` `MySQL` `SQL` `Git` `GitHub` `Claude` `ChatGPT` `Prompt Engineering`
+
+---
+
+## 💼 Featured Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏗️ JustinFloors CRM
+### 🏗️ JustinFloors Operations Dashboard
 
-A production-style CRM and operations dashboard built for a real flooring business.
+A business operations dashboard built for a flooring contractor to replace spreadsheet-based job tracking.
 
-**What it does:**
+**Highlights**
 
-- Lead tracking  
 - Customer management  
-- Job pipeline  
+- Job tracking  
 - Material tracking  
-- Follow-up tasks  
-- Interaction history  
-- Revenue tracking  
-- SQL-backed workflow  
+- Installation scheduling  
+- Revenue visibility  
+- SQL database design  
 - Streamlit dashboard  
+- Real business workflow automation  
 
-**Tech Used**
+**Tech**
 
-`Python` `Streamlit` `MySQL` `SQL` `Git` `GitHub`
+`Python` `Streamlit` `MySQL` `SQL` `Git`
 
 </td>
 
@@ -102,21 +160,21 @@ A production-style CRM and operations dashboard built for a real flooring busine
 
 ### 🌐 AI Website Agency
 
-An AI-assisted web design workflow for building websites for local businesses.
+A workflow for building and deploying websites for local businesses using AI-assisted development tools.
 
-**What it includes:**
+**Highlights**
 
-- Client website generation  
-- Claude-assisted development  
-- Base44 website building  
+- AI-assisted website creation  
+- Base44 development workflow  
+- Claude-assisted planning and editing  
 - GitHub version control  
 - Vercel deployment  
-- Client ownership handoff process  
-- Local business outreach CRM  
+- Client ownership handoff  
+- Business outreach process  
 
-**Tech Used**
+**Tech**
 
-`Base44` `Claude` `HTML` `CSS` `JavaScript` `GitHub` `Vercel`
+`Base44` `Claude` `GitHub` `Vercel` `Prompt Engineering`
 
 </td>
 </tr>
@@ -126,20 +184,20 @@ An AI-assisted web design workflow for building websites for local businesses.
 
 ### 📈 Discipline Habit Tracker
 
-A personal productivity app built to track goals, streaks, and consistency.
+A productivity project designed to track daily goals, habits, consistency, and long-term discipline.
 
-**Features:**
+**Highlights**
 
-- Daily habit tracking  
-- Streak tracking  
-- Progress visualization  
-- Goal management  
+- Habit tracking  
+- Daily goal completion  
+- Streak monitoring  
+- Progress tracking  
 - Excel reporting workflow  
-- Responsive layout  
+- Personal productivity system  
 
-**Tech Used**
+**Tech**
 
-`Python` `HTML` `CSS` `JavaScript` `openpyxl`
+`Python` `openpyxl` `Data Tracking`
 
 </td>
 
@@ -147,18 +205,18 @@ A personal productivity app built to track goals, streaks, and consistency.
 
 ### 🤖 AI Content Automation Pipeline
 
-A short-form content workflow focused on AI-generated scripts, visuals, narration, and editing.
+An AI-assisted workflow for creating short-form content using scripting, research, prompts, visuals, and editing tools.
 
-**What I am building:**
+**Highlights**
 
 - AI script generation  
-- Prompt engineering workflows  
-- Short-form video systems  
+- Short-form video planning  
+- Prompt engineering  
 - Content research  
-- AI visual generation  
+- AI visual workflows  
 - Automation planning  
 
-**Tech Used**
+**Tech**
 
 `ChatGPT` `Claude` `Prompt Engineering` `AI Workflows`
 
@@ -172,11 +230,11 @@ A short-form content workflow focused on AI-generated scripts, visuals, narratio
 
 Coming soon.
 
-A chatbot project focused on memory, user context, and personalized responses.
+A chatbot project focused on memory, personalization, and contextual responses.
 
 **Planned Stack**
 
-`Python` `OpenAI API` `Vector DB` `RAG` `FastAPI`
+`Python` `OpenAI API` `Vector Database` `RAG`
 
 </td>
 
@@ -186,11 +244,11 @@ A chatbot project focused on memory, user context, and personalized responses.
 
 Coming soon.
 
-An AI tool that reviews resumes and gives personalized feedback for job seekers.
+An AI tool that reviews resumes and gives personalized job-search feedback.
 
 **Planned Stack**
 
-`Python` `LLMs` `Prompt Engineering` `Streamlit`
+`Python` `LLMs` `Streamlit` `Prompt Engineering`
 
 </td>
 </tr>
@@ -198,7 +256,7 @@ An AI tool that reviews resumes and gives personalized feedback for job seekers.
 <tr>
 <td width="50%" valign="top">
 
-### 🔎 RAG Application
+### 🔎 RAG Document Assistant
 
 Coming soon.
 
@@ -206,7 +264,7 @@ A retrieval-augmented generation app that answers questions from uploaded docume
 
 **Planned Stack**
 
-`Python` `LangChain` `Vector DB` `OpenAI API`
+`Python` `RAG` `Vector Database` `LLMs`
 
 </td>
 
@@ -216,7 +274,7 @@ A retrieval-augmented generation app that answers questions from uploaded docume
 
 Coming soon.
 
-A tool for checking AI responses for formatting, accuracy, and instruction-following.
+A tool for checking AI-generated responses for formatting, accuracy, and instruction-following.
 
 **Planned Stack**
 
@@ -230,13 +288,10 @@ A tool for checking AI responses for formatting, accuracy, and instruction-follo
 
 ## 🧰 Tech Stack
 
-### Languages
+### Core Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks & Databases
 
@@ -259,38 +314,36 @@ A tool for checking AI responses for formatting, accuracy, and instruction-follo
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-4FC3F7?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-58A6FF?style=for-the-badge)
 ![AI Automation](https://img.shields.io/badge/AI_Automation-111827?style=for-the-badge)
 
 ---
 
 ## 📚 Currently Learning
 
-<div align="center">
-
 | Skill | Focus |
 |---|---|
-| ☁️ Azure AZ-900 | Cloud fundamentals, compute, networking, pricing, security |
-| 🤖 AI Engineering | LLMs, prompts, AI workflows, applied AI apps |
-| 🐍 Python Automation | Scripts, data handling, workflow automation |
-| 🧠 Machine Learning | Core concepts, models, evaluation, use cases |
-| ⚙️ Docker | Containers and deployment basics |
-| 🚀 CI/CD | GitHub workflows and deployment pipelines |
-| 🗄️ SQL | Relational databases, joins, CRUD, normalization |
-
-</div>
+| ☁️ Microsoft Azure AZ-900 | Cloud concepts, pricing, networking, security, identity |
+| 🤖 AI Engineering | LLMs, prompt engineering, AI workflows, applied AI tools |
+| 🐍 Python Automation | Scripts, workflow automation, data handling |
+| 🧠 Machine Learning | Core concepts, model evaluation, practical use cases |
+| ⚙️ Docker | Containers and deployment fundamentals |
+| 🚀 CI/CD | GitHub workflows and automated deployment |
+| 🗄️ SQL | Joins, CRUD, database relationships, normalization |
+| 🏗️ Software Architecture | Designing cleaner, scalable applications |
 
 ---
 
-## 🏆 Background & Achievements
+## 🏆 Highlights
 
-- 🎓 Computer Information Systems graduate  
-- 🏅 Former NCAA Division II student-athlete  
+- 🎓 B.S. Computer Information Systems  
+- 🏅 Cum Laude Graduate  
+- 🥍 Former NCAA Division II Student-Athlete  
 - 🛡️ Google Cybersecurity Professional Certificate  
-- 🏗️ Built a CRM for a real business workflow  
+- 🏢 Built ForgeCRM for my AI web agency  
 - 🌐 Building AI-assisted websites for local businesses  
-- 🧠 Learning AI Engineering, Azure, automation, and cloud development  
-- 💻 Building projects every week to grow as a developer  
+- 💻 Built business dashboards using Python, SQL, Streamlit, and MySQL  
+- 🚀 Continuously building hands-on software projects  
 
 ---
 
@@ -298,17 +351,17 @@ A tool for checking AI responses for formatting, accuracy, and instruction-follo
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ncmoore55&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=ncmoore55&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ncmoore55&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncmoore55&layout=compact&theme=tokyonight&hide_border=true" width="45%" alt="Top Languages" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ncmoore55&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ncmoore55&theme=tokyo-night&hide_border=true" width="95%" alt="Activity Graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncmoore55&layout=compact&theme=tokyonight&hide_border=true" width="45%" alt="Top Languages"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ncmoore55&theme=tokyo-night&hide_border=true" width="95%" alt="Activity Graph"/>
 
 </div>
 
@@ -318,53 +371,20 @@ A tool for checking AI responses for formatting, accuracy, and instruction-follo
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ncmoore55/ncmoore55/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/ncmoore55/ncmoore55/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
 ---
 
-## 🗺️ 2026 Roadmap
-
-- [x] Build a real CRM application  
-- [x] Learn Streamlit and MySQL by building projects  
-- [x] Start AI-assisted website agency  
-- [x] Practice Git and GitHub workflows  
-- [ ] Pass Azure AZ-900  
-- [ ] Build a memory chatbot  
-- [ ] Build a RAG application  
-- [ ] Build an AI resume reviewer  
-- [ ] Build an LLM output validator  
-- [ ] Land first Software Engineering / AI Engineering role  
-- [ ] Launch a small SaaS product  
-
----
-
-## 🎯 Current Goals
-
-<div align="center">
-
-| Goal | Why It Matters |
-|---|---|
-| 💼 Land first software role | Start my professional engineering career |
-| 🤖 Build AI projects | Move toward AI Engineering |
-| ☁️ Learn Azure | Understand cloud infrastructure |
-| 🏗️ Ship real apps | Build proof, not just certificates |
-| 🌐 Grow web agency | Use AI to solve business problems |
-| 📚 Keep learning daily | Consistency compounds |
-
-</div>
-
----
-
-## 💡 Favorite Quote
+## 💡 My Mindset
 
 <div align="center">
 
 ### “Discipline beats motivation.”
 
 Former NCAA athlete turned software builder.  
-Focused on building every day.
+Focused on learning fast, building real projects, and shipping consistently.
 
 </div>
 
@@ -374,12 +394,12 @@ Focused on building every day.
 
 <div align="center">
 
-<a href="https://linkedin.com/in/nikolas-moore-94b09424a/">
-  <img src="https://img.shields.io/badge/LinkedIn-Nikolas%20Moore-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://linkedin.com/in/nikolas-moore-94b09424a">
+<img src="https://img.shields.io/badge/LinkedIn-Nikolas%20Moore-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:nikolasmoore2007@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -388,7 +408,7 @@ Focused on building every day.
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="350" alt="Coding gif" />
+<img src="./assets/ai.gif" width="450" alt="AI GIF"/>
 
 <br><br>
 
@@ -398,6 +418,11 @@ Built with Python, curiosity, discipline, and a lot of debugging.
 
 <br>
 
+<sub>
+Always learning. Always building. Always shipping.
+</sub>
+
+</div>
 <sub>
 Always building. Always learning. Always shipping.
 </sub>
