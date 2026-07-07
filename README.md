@@ -7,11 +7,17 @@ Repository: ncmoore55/ncmoore55
 
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="Nikolas Moore Banner"/>
+<div align="center">
 
-<br><br>
+<img src="assets/ChatGPT%20Image%20Jul%206,%202026,%2009_25_41%20PM.png"
+     width="100%"
+     alt="Nikolas Moore Banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Nikolas+Moore;Software+Engineer;Python+Developer;Building+AI-Powered+Business+Solutions;Creator+of+ForgeCRM;Building+Real+Software+for+Real+Businesses;Always+Learning.+Always+Shipping." alt="Typing SVG"/>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=1000&lines=Building+AI-Powered+Business+Solutions;Creator+of+ForgeCRM;Python+Developer;Building+Real+Software+for+Real+Businesses;Always+Learning.+Always+Shipping." alt="Typing SVG"/>
+
+</div>
 
 # 👋 Hi, I'm Nikolas Moore
 
@@ -350,16 +356,6 @@ A tool for checking AI-generated responses for formatting, accuracy, and instruc
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ncmoore55&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ncmoore55&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncmoore55&layout=compact&theme=tokyonight&hide_border=true" width="45%" alt="Top Languages"/>
-
-<br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ncmoore55&theme=tokyo-night&hide_border=true" width="95%" alt="Activity Graph"/>
 
