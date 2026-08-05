@@ -7,32 +7,31 @@ Repository: ncmoore55/ncmoore55
 
 <div align="center">
 
-<div align="center">
-
 <img src="assets/ChatGPT%20Image%20Jul%206,%202026,%2009_25_41%20PM.png"
      width="100%"
-     alt="Nikolas Moore Banner"/>
+     alt="Nikolas Moore Software Engineering Banner"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=1000&lines=Building+AI-Powered+Business+Solutions;Creator+of+ForgeCRM;Python+Developer;Building+Real+Software+for+Real+Businesses;Always+Learning.+Always+Shipping." alt="Typing SVG"/>
-
-</div>
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=1000&lines=Full-Stack+Software+Engineer;Building+FleetIQ+AI;React+%7C+FastAPI+%7C+PostgreSQL;Microsoft+Certified%3A+Azure+Fundamentals;Always+Learning.+Always+Shipping."
+  alt="Typing SVG"
+/>
 
 # 👋 Hi, I'm Nikolas Moore
 
-### Software Engineer | Python Developer | Building AI-Powered Business Solutions
+### Software Engineer | Full-Stack Developer | Microsoft Certified: Azure Fundamentals
 
-Building real software, business tools, automation workflows, and AI-assisted applications.
+I love solving complex problems and building software that makes people's lives easier.
 
 <br>
 
 <a href="https://linkedin.com/in/nikolas-moore-94b09424a">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:nikolasmoore2007@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=ncmoore55&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS"/>
@@ -45,29 +44,32 @@ Building real software, business tools, automation workflows, and AI-assisted ap
 
 | | |
 |---|---|
-| 🎓 Education | B.S. Computer Information Systems — Colorado Mesa University |
-| 🏅 Background | Former NCAA Division II Student-Athlete |
-| 🏢 Flagship Project | ForgeCRM — AI Agency CRM Platform |
-| 🐍 Core Skills | Python, SQL, Streamlit, MySQL, Git, GitHub |
-| 🤖 AI Focus | Prompt Engineering, AI Workflows, Claude, ChatGPT |
-| ☁️ Cloud Focus | Microsoft Azure AZ-900 |
-| 💼 Career Goal | Software Engineering, AI Engineering, Cloud, Python Development |
+| 🎓 **Education** | B.S. in Computer Information Systems — Colorado Mesa University |
+| 🏅 **Background** | Cum Laude Graduate and Former NCAA Division II Student-Athlete |
+| ☁️ **Certification** | Microsoft Certified: Azure Fundamentals — AZ-900 |
+| 🚗 **Flagship Project** | FleetIQ AI — Vehicle Intelligence Platform |
+| 💻 **Development Focus** | Full-Stack Software Engineering |
+| 🐍 **Languages** | Python, JavaScript, TypeScript, SQL |
+| 🧰 **Core Stack** | React, FastAPI, PostgreSQL, Git, GitHub |
+| 🎯 **Career Goal** | Software Engineering, Backend Development, and Cloud Development |
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Information Systems graduate** from **Colorado Mesa University** and a former **NCAA Division II student-athlete** with a passion for building software that solves real business problems.
+I'm a software engineer with a degree in Computer Information Systems from Colorado Mesa University.
 
-Rather than only completing tutorials, I focus on creating production-style applications, business dashboards, CRMs, automation workflows, and AI-assisted websites. My current work combines **Python**, **SQL**, **Streamlit**, **MySQL**, **Git**, **GitHub**, **AI-assisted development**, and cloud learning.
+I enjoy building full-stack applications that solve real-world problems using technologies such as **Python**, **React**, **FastAPI**, **PostgreSQL**, **Git**, and **Microsoft Azure**.
 
-My goal is to become a strong software engineer with practical experience in **AI engineering, automation, cloud computing, and business software development**.
+Rather than only completing tutorials, I learn by building. My projects allow me to work across frontend development, backend APIs, relational databases, testing, debugging, version control, DevOps fundamentals, and cloud technologies.
+
+My background in NCAA Division II athletics and construction taught me how to communicate with a team, accept feedback, stay accountable, and continue working through difficult problems.
 
 ---
 
 <div align="center">
 
-<img src="./assets/coding.gif" width="650" alt="Coding GIF"/>
+<img src="./assets/coding.gif" width="650" alt="Software Development GIF"/>
 
 </div>
 
@@ -77,110 +79,162 @@ My goal is to become a strong software engineer with practical experience in **A
 
 | 🚀 Focus | Description |
 |---|---|
-| 🏢 **ForgeCRM** | A full-featured CRM for managing leads, clients, website projects, follow-ups, revenue, and business operations. |
-| 🌐 **AI Website Agency** | Building websites for local businesses using AI-assisted development, GitHub, Vercel, and client handoff workflows. |
-| 🤖 **AI Engineering Projects** | Developing practical AI tools involving prompt engineering, automation, memory, RAG, and LLM validation. |
-| ☁️ **Azure Cloud Learning** | Studying Microsoft Azure fundamentals through AZ-900 preparation. |
-| 📚 **Continuous Skill Growth** | Building weekly projects to strengthen Python, SQL, Git, cloud, and software engineering fundamentals. |
+| 🚗 **FleetIQ AI** | Building a full-stack vehicle and auction intelligence platform using React, TypeScript, FastAPI, Python, and PostgreSQL. |
+| 💼 **Moore Agency CRM** | Developing and improving a CRM for managing leads, customer interactions, tasks, projects, and business operations. |
+| ☁️ **Cloud Development** | Applying Microsoft Azure fundamentals while learning cloud deployment and scalable application architecture. |
+| 🔄 **Software Delivery** | Using Git, GitHub, GitHub Actions, testing, and development workflows to build software iteratively. |
+| 📚 **Continuous Learning** | Strengthening my full-stack, backend, database, cloud, debugging, and software engineering skills through hands-on projects. |
 
 ---
 
 # 🚀 Flagship Project
 
-## 🏢 ForgeCRM — AI Agency CRM Platform
+## 🚗 FleetIQ AI — Auction & Vehicle Intelligence Platform
 
-A production-style CRM designed and developed from the ground up to manage my AI web design agency.
+FleetIQ AI is a full-stack application designed to help users search for and evaluate vehicles available through public auctions.
 
-ForgeCRM replaces spreadsheets with a centralized application that manages the full business workflow: lead generation, outreach, follow-ups, client tracking, website project status, revenue, and business analytics.
+The project is being built as a hands-on software engineering experience, allowing me to understand how a modern application works from the user interface to the API, database, testing, version control, and future cloud deployment.
 
-### Core Features
+### Current Progress
 
-| Feature | Description |
-|---|---|
-| Lead Pipeline | Track prospects from new lead to contacted, interested, proposal sent, won, or lost. |
-| Customer Database | Store business names, contact info, city, website status, and lead status. |
-| Follow-Up Tasks | Manage next steps so potential clients do not get forgotten. |
-| Interaction History | Track calls, emails, notes, and communication history. |
-| Website Project Tracking | Monitor each website from idea to build to deployment. |
-| Revenue Dashboard | Track paid projects and business income. |
-| Search & Filtering | Quickly find leads, customers, and active opportunities. |
-| CRUD Operations | Create, read, update, and delete business records. |
-| MySQL Backend | Relational database structure for clean business data. |
-| Streamlit Interface | Simple dashboard UI for managing the agency workflow. |
+- Created the project structure with separate frontend and backend applications
+- Built the frontend using React, TypeScript, HTML, and CSS
+- Created the initial vehicle search interface
+- Added form fields and search criteria for auction vehicles
+- Initialized a Python virtual environment for the backend
+- Created and ran the FastAPI development server
+- Connected the project to Git and GitHub
+- Documented progress through frequent, focused commits
 
-### Recent Improvements
+### Planned Features
 
-- Redesigned dashboard layout  
-- Improved interaction history cards  
-- Improved follow-up task visualization  
-- Added lead deletion  
-- Added revenue tracking improvements  
-- Improved layout and spacing  
-- Added cleaner UI components  
-- Strengthened database relationships  
-- Added business-focused workflow logic  
+- Vehicle search by make, model, year, mileage, and price
+- FastAPI REST API endpoints
+- PostgreSQL database integration
+- Auction listing storage and retrieval
+- Search filtering and sorting
+- Vehicle detail pages
+- User authentication
+- AI-assisted vehicle insights
+- Docker containerization
+- Automated testing and CI/CD
+- Microsoft Azure deployment
 
-### Planned Improvements
+### Technology Stack
 
-- AI-powered lead insights  
-- Automated follow-up reminders  
-- AI proposal generator  
-- Website performance tracking  
-- Client dashboard  
-- Business reporting exports  
+#### Frontend
 
-### Technologies Used
+`React` `TypeScript` `JavaScript` `HTML5` `CSS3` `Vite`
 
-`Python` `Streamlit` `MySQL` `SQL` `Git` `GitHub` `Claude` `ChatGPT` `Prompt Engineering`
+#### Backend
+
+`Python` `FastAPI` `REST APIs`
+
+#### Database
+
+`PostgreSQL`
+
+#### Development & DevOps
+
+`Git` `GitHub` `GitHub Actions` `Docker` `VS Code`
+
+#### Cloud
+
+`Microsoft Azure`
 
 ---
 
-## 💼 Featured Work
+## 💼 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
+### 🚗 FleetIQ AI
+
+A full-stack vehicle and auction intelligence platform currently under development.
+
+**Highlights**
+
+- React and TypeScript frontend
+- FastAPI Python backend
+- Vehicle search interface
+- REST API architecture
+- PostgreSQL database planned
+- Git and GitHub workflow
+- Cloud deployment planned
+
+**Tech**
+
+`React` `TypeScript` `FastAPI` `Python` `PostgreSQL` `Git`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💼 Moore Agency CRM
+
+A customer relationship management application built to manage leads, interactions, tasks, projects, and business workflows.
+
+**Highlights**
+
+- 50+ sample customer records
+- Relational database structure
+- Lead and customer tracking
+- Interaction history
+- Follow-up task management
+- Project tracking
+- GitHub Actions testing
+- Ubuntu VM deployment practice
+
+**Tech**
+
+`Python` `Streamlit` `MySQL` `SQL` `Git` `GitHub Actions`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
 ### 🏗️ JustinFloors Operations Dashboard
 
-A business operations dashboard built for a flooring contractor to replace spreadsheet-based job tracking.
+A business operations dashboard designed for a flooring contractor to replace spreadsheet-based job tracking.
 
 **Highlights**
 
-- Customer management  
-- Job tracking  
-- Material tracking  
-- Installation scheduling  
-- Revenue visibility  
-- SQL database design  
-- Streamlit dashboard  
-- Real business workflow automation  
+- Customer management
+- Job tracking
+- Material tracking
+- Installation scheduling
+- Invoice visibility
+- Relational database design
+- Business workflow improvement
 
 **Tech**
 
-`Python` `Streamlit` `MySQL` `SQL` `Git`
+`Python` `Streamlit` `MySQL` `SQL`
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🌐 AI Website Agency
+### 🌐 Nik's Web Design
 
-A workflow for building and deploying websites for local businesses using AI-assisted development tools.
+A collection of responsive websites built for small-business demonstrations and client outreach.
 
 **Highlights**
 
-- AI-assisted website creation  
-- Base44 development workflow  
-- Claude-assisted planning and editing  
-- GitHub version control  
-- Vercel deployment  
-- Client ownership handoff  
-- Business outreach process  
+- Three small-business website demonstrations
+- Responsive layouts
+- User interface improvements
+- GitHub version control
+- Vercel deployment
+- Client-focused design workflow
 
 **Tech**
 
-`Base44` `Claude` `GitHub` `Vercel` `Prompt Engineering`
+`HTML` `CSS` `JavaScript` `GitHub` `Vercel`
 
 </td>
 </tr>
@@ -188,103 +242,43 @@ A workflow for building and deploying websites for local businesses using AI-ass
 <tr>
 <td width="50%" valign="top">
 
-### 📈 Discipline Habit Tracker
+### 📈 Goal & Discipline Tracker
 
-A productivity project designed to track daily goals, habits, consistency, and long-term discipline.
-
-**Highlights**
-
-- Habit tracking  
-- Daily goal completion  
-- Streak monitoring  
-- Progress tracking  
-- Excel reporting workflow  
-- Personal productivity system  
-
-**Tech**
-
-`Python` `openpyxl` `Data Tracking`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🤖 AI Content Automation Pipeline
-
-An AI-assisted workflow for creating short-form content using scripting, research, prompts, visuals, and editing tools.
+A productivity application used to track daily goals, habits, progress, and consistency.
 
 **Highlights**
 
-- AI script generation  
-- Short-form video planning  
-- Prompt engineering  
-- Content research  
-- AI visual workflows  
-- Automation planning  
+- Daily goal tracking
+- Habit completion
+- Progress monitoring
+- Mobile-friendly use
+- Testing and debugging
+- Docker and GitHub workflow practice
 
 **Tech**
 
-`ChatGPT` `Claude` `Prompt Engineering` `AI Workflows`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 Memory Chatbot
-
-Coming soon.
-
-A chatbot project focused on memory, personalization, and contextual responses.
-
-**Planned Stack**
-
-`Python` `OpenAI API` `Vector Database` `RAG`
+`Python` `Docker` `Git` `GitHub Actions`
 
 </td>
 
 <td width="50%" valign="top">
 
-### 📄 AI Resume Reviewer
+### 🔐 Cybersecurity Labs
 
-Coming soon.
+Hands-on security labs completed through coursework and the Google Cybersecurity Professional Certificate.
 
-An AI tool that reviews resumes and gives personalized job-search feedback.
+**Highlights**
 
-**Planned Stack**
+- Linux command-line work
+- Network traffic analysis
+- Vulnerability scanning
+- SIEM and IDS fundamentals
+- Digital forensics tools
+- Security documentation
 
-`Python` `LLMs` `Streamlit` `Prompt Engineering`
+**Tools**
 
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🔎 RAG Document Assistant
-
-Coming soon.
-
-A retrieval-augmented generation app that answers questions from uploaded documents.
-
-**Planned Stack**
-
-`Python` `RAG` `Vector Database` `LLMs`
-
-</td>
-
-<td width="50%" valign="top">
-
-### ✅ LLM Output Validator
-
-Coming soon.
-
-A tool for checking AI-generated responses for formatting, accuracy, and instruction-following.
-
-**Planned Stack**
-
-`Python` `LLMs` `Testing` `Automation`
+`Linux` `Wireshark` `Wazuh` `Suricata` `Nmap` `Autopsy`
 
 </td>
 </tr>
@@ -294,62 +288,83 @@ A tool for checking AI-generated responses for formatting, accuracy, and instruc
 
 ## 🧰 Tech Stack
 
-### Core Languages
+### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks & Databases
+### Frontend Development
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-0EA5E9?style=for-the-badge)
+
+### Backend Development
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Cloud & Deployment
+### Cloud & DevOps
 
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### Tools
+### Development Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-### AI & Automation
+### AI-Assisted Development
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-58A6FF?style=for-the-badge)
-![AI Automation](https://img.shields.io/badge/AI_Automation-111827?style=for-the-badge)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 ---
 
 ## 📚 Currently Learning
 
-| Skill | Focus |
+| Skill | Current Focus |
 |---|---|
-| ☁️ Microsoft Azure AZ-900 | Cloud concepts, pricing, networking, security, identity |
-| 🤖 AI Engineering | LLMs, prompt engineering, AI workflows, applied AI tools |
-| 🐍 Python Automation | Scripts, workflow automation, data handling |
-| 🧠 Machine Learning | Core concepts, model evaluation, practical use cases |
-| ⚙️ Docker | Containers and deployment fundamentals |
-| 🚀 CI/CD | GitHub workflows and automated deployment |
-| 🗄️ SQL | Joins, CRUD, database relationships, normalization |
-| 🏗️ Software Architecture | Designing cleaner, scalable applications |
+| ⚛️ **React & TypeScript** | Component structure, state, forms, interfaces, and frontend architecture |
+| 🚀 **FastAPI** | Routes, request handling, response models, validation, and REST APIs |
+| 🗄️ **PostgreSQL** | Relational design, queries, application connections, and data management |
+| ☁️ **Microsoft Azure** | Applying AZ-900 knowledge through application hosting and cloud deployment |
+| 🐳 **Docker** | Containers, images, Dockerfiles, and development environments |
+| 🔄 **CI/CD** | GitHub Actions, automated testing, and deployment workflows |
+| 🏗️ **Software Architecture** | Separating frontend, backend, database, and cloud responsibilities |
+| 🧪 **Testing & Debugging** | Finding issues, validating behavior, and improving application reliability |
 
 ---
 
 ## 🏆 Highlights
 
-- 🎓 B.S. Computer Information Systems  
-- 🏅 Cum Laude Graduate  
-- 🥍 Former NCAA Division II Student-Athlete  
-- 🛡️ Google Cybersecurity Professional Certificate  
-- 🏢 Built ForgeCRM for my AI web agency  
-- 🌐 Building AI-assisted websites for local businesses  
-- 💻 Built business dashboards using Python, SQL, Streamlit, and MySQL  
-- 🚀 Continuously building hands-on software projects  
+- 🎓 B.S. in Computer Information Systems
+- 🏅 Graduated Cum Laude
+- ☁️ Microsoft Certified: Azure Fundamentals — AZ-900
+- 🛡️ Google Cybersecurity Professional Certificate
+- 🥍 Former NCAA Division II Student-Athlete and Assistant Captain
+- 🚗 Building FleetIQ AI with React, FastAPI, and PostgreSQL
+- 💼 Built a CRM with 50+ sample customer records
+- 🗄️ Designed relational databases using primary and foreign keys
+- 🔄 Built GitHub Actions testing workflows
+- 🐧 Deployed and tested software using an Ubuntu virtual machine
+- 🌐 Built and deployed responsive websites using GitHub and Vercel
 
 ---
 
@@ -357,7 +372,11 @@ A tool for checking AI-generated responses for formatting, accuracy, and instruc
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ncmoore55&theme=tokyo-night&hide_border=true" width="95%" alt="Activity Graph"/>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=ncmoore55&theme=tokyo-night&hide_border=true"
+  width="95%"
+  alt="Nikolas Moore GitHub Activity Graph"
+/>
 
 </div>
 
@@ -367,7 +386,10 @@ A tool for checking AI-generated responses for formatting, accuracy, and instruc
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ncmoore55/ncmoore55/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img
+  src="https://raw.githubusercontent.com/ncmoore55/ncmoore55/output/github-contribution-grid-snake-dark.svg"
+  alt="Nikolas Moore GitHub Contribution Snake"
+/>
 
 </div>
 
@@ -377,10 +399,9 @@ A tool for checking AI-generated responses for formatting, accuracy, and instruc
 
 <div align="center">
 
-### “Discipline beats motivation.”
+### “Build. Learn. Improve. Repeat.”
 
-Former NCAA athlete turned software builder.  
-Focused on learning fast, building real projects, and shipping consistently.
+I believe the best way to become a stronger software engineer is to build real software, understand how it works, learn from mistakes, and improve one step at a time.
 
 </div>
 
@@ -391,11 +412,11 @@ Focused on learning fast, building real projects, and shipping consistently.
 <div align="center">
 
 <a href="https://linkedin.com/in/nikolas-moore-94b09424a">
-<img src="https://img.shields.io/badge/LinkedIn-Nikolas%20Moore-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Nikolas%20Moore-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:nikolasmoore2007@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -404,23 +425,18 @@ Focused on learning fast, building real projects, and shipping consistently.
 
 <div align="center">
 
-<img src="./assets/ai.gif" width="450" alt="AI GIF"/>
+<img src="./assets/ai.gif" width="450" alt="Software and AI Development GIF"/>
 
 <br><br>
 
 <sub>
-Built with Python, curiosity, discipline, and a lot of debugging.
+Built with curiosity, discipline, problem-solving, and a lot of debugging.
 </sub>
 
 <br>
 
 <sub>
 Always learning. Always building. Always shipping.
-</sub>
-
-</div>
-<sub>
-Always building. Always learning. Always shipping.
 </sub>
 
 </div>
