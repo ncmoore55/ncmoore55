@@ -7,7 +7,7 @@ Repository: ncmoore55/ncmoore55
 
 <div align="center">
 
-<img src="assets/ChatGPT%20Image%20Jul%206,%202026,%2009_25_41%20PM.png"
+<img src="assets/797e224b-cf68-4238-8aa0-ed5e287dd936.png"
      width="100%"
      alt="Nikolas Moore Software Engineering Banner"/>
 
